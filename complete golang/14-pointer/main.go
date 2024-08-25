@@ -34,7 +34,7 @@ func main(){
 	// var ptr *int// defaulgt pointer == nil 
 
 	// creating a function for pointer 
-	//modify value by reference means address se hi value ko change kardia 
+	//modify value by reference means address se hi value ko change kardia    
 
 
 		value :=10
