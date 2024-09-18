@@ -1,5 +1,5 @@
 //post method - we can send  data via post method 
-//creating data 
+//creating data /
 
 package main 
 import "fmt"
